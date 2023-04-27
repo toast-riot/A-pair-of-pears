@@ -27,7 +27,7 @@ def encode(message, item='pear', itemPlural='pears'):
 		
 		encoded.append(' plus '.join(out))
 
-	return ', '.join(encoded)
+	return (', '.join(encoded) + '.').capitalize()
 
 def decode(message):
 	decoded = ''
