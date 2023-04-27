@@ -1,4 +1,4 @@
-inp = 15
+inp = 5
 item = 'item'
 itemPlural = 'items'
 
