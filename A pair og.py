@@ -24,8 +24,8 @@ for n, i in zip(out, range(len(out))):
 		pair += 'pair' if z < 1 else 'pairs'
 		if z != out[i] - 1:
 			pair += ' of '
-	
-	if i == len(out) - 2 or i == len(out) - 1 and inp % 2 == 0:
+			
+	if i == len(out) - 1 - inp % 2:
 		pair += f' of {itemPlural}'
 	out[i] = pair
 
