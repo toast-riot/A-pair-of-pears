@@ -1,7 +1,6 @@
-item = 'item'
-itemPlural = 'items'
-
 message = 'test'
+item = 'pear'
+itemPlural = 'pears'
 
 encoded = []
 for character in list(map(bin,bytearray(message,'utf8'))):
