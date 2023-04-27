@@ -1,4 +1,4 @@
-def encode(message, item, itemPlural):
+def encode(message, item='pear', itemPlural='pears'):
 	encoded = []
 	for character in list(map(bin,bytearray(message,'utf8'))):
 		character = character[2:]
