@@ -3,10 +3,9 @@ itemPlural = 'items'
 
 message = 'test'
 
-encoded = ''
+encoded = []
 for character in list(map(bin,bytearray(message,'utf8'))):
 	character = character[2:]
-	print('\n' + character)
 	
 	#tf = list(map(lambda n : True if n == '1' else False, binary)) #is this faster or slower?
 	tf = list(True if n == '1' else False for n in character)
@@ -31,6 +30,6 @@ for character in list(map(bin,bytearray(message,'utf8'))):
 			pair += f' of {itemPlural}'
 		out[i] = pair
 	
-	print(' plus '.join(out))
+	encoded.append(' plus '.join(out))
 
-print(encoded)
+print(', '.join(encoded))
