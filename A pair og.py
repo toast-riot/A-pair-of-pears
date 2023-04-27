@@ -5,7 +5,6 @@ itemPlural = 'items'
 #print(list(map(bin,bytearray(message,'utf8'))))
 
 bin = bin(inp)[2:]
-print(bin)#debug
 
 #tf = list(map(lambda n : True if n == '1' else False, bin)) #is this faster or slower?
 tf = list(True if n == '1' else False for n in bin)
@@ -30,5 +29,4 @@ for n, i in zip(out, range(len(out))):
 		pair += f' of {itemPlural}'
 	out[i] = pair
 
-print(out)	
 print(' plus '.join(out))
