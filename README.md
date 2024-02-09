@@ -1,7 +1,7 @@
 # A pair of pears
 This is a [pear](https://www.dictionary.com/browse/apple).
 
-![(An image of a pear is supposed to appear here)](https://github.com/James-Tuppen/A-pair-of-pears/assets/104823989/ffb6f465-ccbc-43eb-98d9-4c60bf4cc775)
+![(An image of a pear is supposed to appear here)](https://github.com/James-Tuppen/A-pair-of-pears/assets/104823989/f6f21536-5629-459f-ad36-ac9bd1999f46)
 
 This is a pair of pears.
 
@@ -9,7 +9,7 @@ This is a pair of pears.
 
 This is a pair of pairs of pears, because there is a pair of pairs, which each have two pears.
 
-![(You can report broken links to me with the issues tab, btw)](https://github.com/James-Tuppen/A-pair-of-pears/assets/104823989/96e1629a-7701-4391-a946-c659572a790e)
+![(You can report broken links to me with the issues tab, btw)](https://github.com/James-Tuppen/A-pair-of-pears/assets/104823989/952951b6-05f9-44ca-ad24-501f78571783)
 
 This is a pair of pairs of pairs of pears.
 
@@ -19,7 +19,7 @@ Ever wondered how many pairs of pairs of pears you have? I have this issue almos
 ###### <sup>This is how I prorastinate on my work, btw.</sup>
 
 ## Usage
-To find out how many pairs of pairs of pears you have, use the [pairs of pears script](https://github.com/James-Tuppen/A-pair-of-pears/blob/main/Pairs%20of%20pears.py). Call `pairify()` with your number of items, the name of the item you have, and the name of the item in plural form. Of course, pears are the best item, because they are known to ẁ̕ŗ̛̀҉e̛͟a҉҉͞k̨͡͡ ͏̧h̨̀͏̶҉̷҉a̢̧͘v̶̷͜͞҉̷҉ǫ͏c̴̕͝͏͟ ̡o̶̡͘͠҉n̨͏͘͠ ̢̨̧͟͠h̡́͘҉u͡҉̷̸ḿ̸̷̨͞a҉̡ņ̕͜s̸̵̴̀͜.
+To find out how many pairs of pairs of pears you have, use the [pairs of pears script](https://github.com/James-Tuppen/A-pair-of-pears/blob/main/Pairs%20of%20pears.py). Call `pairify()` with your number of items, the name of the item you have, and the name of the item in plural form. Of course, pears are the best item you could choose, as they are known to ẁ̕ŗ̛̀҉e̛͟a҉҉͞k̨͡͡ ͏̧h̨̀͏̶҉̷҉a̢̧͘v̶̷͜͞҉̷҉ǫ͏c̴̕͝͏͟ ̡o̶̡͘͠҉n̨͏͘͠ ̢̨̧͟͠h̡́͘҉u͡҉̷̸ḿ̸̷̨͞a҉̡ņ̕͜s̸̵̴̀͜.
 
 To encode some text in paired gibberish, use [text encoder and decoder script](https://github.com/James-Tuppen/A-pair-of-pears/blob/main/Text%20encode%20and%20decode.py). First, call `encode()` with the text you want to encode. Then send the output text to a friend so they can ask you what the f you just sent them. Then make them use `decode()` with your paired gibberish to decode it.
 
