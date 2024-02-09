@@ -1,19 +1,19 @@
 # A pair of pears
 This is a [pear](https://www.dictionary.com/browse/apple).
 
-![(An image of a pear is supposed to appear here)](https://dictionary.cambridge.org/images/thumb/pear_noun_002_26910.jpg?version=5.0.316)
+![(An image of a pear is supposed to appear here)](https://github.com/James-Tuppen/A-pair-of-pears/assets/104823989/ffb6f465-ccbc-43eb-98d9-4c60bf4cc775)
 
 This is a pair of pears.
 
-![(Two pears in a questionable position have clearly not been loaded)](https://gardenplannerwebsites.azureedge.net/blog/how-to-grow-pears-fruits-2x.jpg)
+![(Two pears in a questionable position have clearly not been loaded)](https://github.com/James-Tuppen/A-pair-of-pears/assets/104823989/fcc1507b-152e-49d4-98b5-f8e88e772ff6)
 
 This is a pair of pairs of pears, because there is a pair of pairs, which each have two pears.
 
-![(You can report broken links to me with the issues tab, btw)](https://previews.123rf.com/images/romasph/romasph1308/romasph130800167/21589965-four-pears-isolated-on-a-white-background.jpg)
+![(You can report broken links to me with the issues tab, btw)](https://github.com/James-Tuppen/A-pair-of-pears/assets/104823989/96e1629a-7701-4391-a946-c659572a790e)
 
 This is a pair of pairs of pairs of pears.
 
-![(I guess no pears for you then)](https://cdnfiles.j2bloggy.com/11192_b/wp-content/uploads/sites/5/2021/01/array-1.jpg)
+![(I guess no pears for you then)](https://github.com/James-Tuppen/A-pair-of-pears/assets/104823989/0a1afb88-0fba-40bd-b8a5-da04ca4b7ddf)
 
 Ever wondered how many pairs of pairs of pears you have? I have this issue almost daily, and I bet many others do too, so here. This script lets you turn a number of pears (or any other item!) into a number of pairs of that item. There's also a script to encode text in this same format.
 ###### <sup>This is how I prorastinate on my work, btw.</sup>
